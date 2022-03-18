@@ -1,0 +1,21 @@
+{
+  "name": "mis",
+  "version": "1.0.0",
+  "description": "This is a directory that will display all my Management Information System links to code and reports.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Kelly",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.1",
+    "@hapi/inert": "^6.0.5"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.0"
+  },
+  "prettier": {
+    "printWidth": 120
+  }
+}
